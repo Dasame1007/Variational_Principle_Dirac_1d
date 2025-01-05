@@ -1,0 +1,11 @@
+message:        "Please cite as below."
+authors:
+- family-names: "Sánchez-Mendoza"
+  given-names:  "Daniel"
+  orcid:        "https://orcid.org/0000-0001-5816-564X"
+- family-names: "Winklmeier"
+  given-names:  "Monika"
+  orcid:        "https://orcid.org/0000-0001-8590-5738"
+title:          "Variational_Principle_Dirac_1d"
+date-released:  2025-01-05
+url:            "https://github.com/Dasame1007/Variational_Principle_Dirac_1d"
